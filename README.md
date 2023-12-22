@@ -4,8 +4,8 @@ This repository holds CUDA/cuDNN implementation of vDNN, proposed in the paper [
 ## Installation & Setup
 1\) Clone repository
 ```
-git clone https://github.com/james98kr/SCNN_simulation.git
-cd SCNN_simulation
+git clone https://github.com/james98kr/vDNN_Implementation.git
+cd vDNN_Implementation
 ```
 
 2\) Compile source code into binary executable using the following command. This will create the executable file ``vdnn``. 
